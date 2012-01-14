@@ -24,6 +24,8 @@ PRODUCT_PROPERTY_OVERRIDES := \
 
 PRODUCT_PACKAGES := \
     ApplicationsProvider \
+    Superuser \
+    su \
     BackupRestoreConfirmation \
     Browser \
     Contacts \
